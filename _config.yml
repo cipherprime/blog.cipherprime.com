@@ -1,0 +1,34 @@
+title: Particles, Colors, Music.
+email: team@cipherprime.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Cipher Prime makes games in Philly.
+baseurl: /
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: cipherprime
+github_username:  cipherprime
+
+
+# Jekyll settings
+permalink: /:title/
+paginate: 10
+
+# Page settings
+show_excerpts: true
+post_footer: true
+
+
+
+# Theme settings
+# dark_theme: false
+# dark_header: true
+
+# Build settings
+markdown: kramdown
+# theme: minimal-mistakes-jekyll
+# remote_theme: niklasbuschmann/contrast
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-feed
+  - classifier-reborn

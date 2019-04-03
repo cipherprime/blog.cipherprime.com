@@ -1,0 +1,35 @@
+.iframe-container
+{
+  max-width: 100%;
+  height: 0px;
+  position: relative;
+  border-radius: 5px;
+  border:1px solid #eee;
+  margin-bottom: 20px;
+}
+
+iframe
+{
+  border: none;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+img
+{
+  max-width: 100%;
+}
+
+
+h1 a
+{
+  text-decoration: none;
+}
+
+h1 a:hover
+{
+  text-decoration: underline;
+}
