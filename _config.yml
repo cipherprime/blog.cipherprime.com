@@ -23,7 +23,7 @@ post_footer: true
 # dark_header: true
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 # theme: minimal-mistakes-jekyll
 # remote_theme: niklasbuschmann/contrast
