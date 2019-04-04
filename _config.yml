@@ -24,7 +24,7 @@ post_footer: true
 
 # Build settings
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 # theme: minimal-mistakes-jekyll
 # remote_theme: niklasbuschmann/contrast
 # redcarpet:

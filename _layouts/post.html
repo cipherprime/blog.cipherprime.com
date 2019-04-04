@@ -8,17 +8,17 @@ logo: '/assets/images/logo.png'
 
 <header class="main-header no-cover" style="height: 10vh">
     <nav class="main-nav overlay clearfix">
-        <a class="back-button icon-arrow-left" href="{{ site.baseurl }}">Home</a>
+        <a class="back-button icon-arrow-left" href="/">Home</a>
             {% if page.logo %}
                 <a class="blog-logo" href="https://cipherprime.com">
                     <img src="{{ page.logo }}" alt="Blog Logo" />
                 </a>
             {% endif %}
-        <a class="subscribe-button icon-feed" href="{{ site.baseurl }}feed.xml">Subscribe</a>
+        <a class="subscribe-button icon-feed" href="/feed.xml">Subscribe</a>
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
-            <h1 class="page-title"><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
+            <h1 class="page-title"><a href="/">{{ site.title }}</a></h1>
             <h2 class="page-description">
                 {% if site.description %} {{ site.description }} {% endif %}
             </h2>
@@ -82,7 +82,7 @@ logo: '/assets/images/logo.png'
             {% if page.author %}
             {% assign author = site.data.authors[page.author] %}
                 <figure class="author-image">
-                    <a class="img" href="{{ site.baseurl }}" style="background-image: url(/assets/images/authors/{{ page.author }}.jpg)">
+                    <a class="img" href="/" style="background-image: url(/assets/images/authors/{{ page.author }}.jpg)">
                     <span class="hidden">{{ page.author }}'s Picture</span></a>
                 </figure>
                 <section class="author">
