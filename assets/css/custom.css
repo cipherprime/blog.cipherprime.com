@@ -1,6 +1,6 @@
 iframe
 {
-  border: none;
+  border: 1px solid #eee;
 }
 
 img
@@ -17,4 +17,10 @@ h1 a
 h1 a:hover
 {
   text-decoration: underline;
+}
+
+
+pre
+{
+  font-size: 80%;
 }

@@ -23,9 +23,12 @@ post_footer: true
 # dark_header: true
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+highlighter: pygments
 # theme: minimal-mistakes-jekyll
 # remote_theme: niklasbuschmann/contrast
+# redcarpet:
+#     extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
 
 plugins:
   - jekyll-remote-theme

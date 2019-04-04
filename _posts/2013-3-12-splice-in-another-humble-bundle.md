@@ -5,7 +5,7 @@ slug: splice-in-another-humble-bundle
 oldlink: //blog.cipherprime.com/splice/2013/03/splice-in-another-humble-bundle
 author: sidekicks
 date: 2013-3-12 10:00:18 -0400
-tags: 
+tags:
 ---
 
 [_Splice_](http://www.cipherprime.com/games/splice "Splice") is gonna be in [the latest Humble Bundle](https://www.humblebundle.com/ "Humble Bundle with Android 5"). Boosh.
@@ -29,17 +29,23 @@ If you feel like being a Cipher Prime hero, you can put a countdown/purchase wid
 
 **1\. For embedding on a site (it will float on the top and scroll with the page)**
 
-<div style=”width:410px; height:150px; position:fixed; top:30px; right:30px; z-index:2000;”>  
-<iframe scrolling=’no’ frameBorder=’0′ style=”border:none;” src=”[http://www.humblebundle.com/\_widget/html](http://www.humblebundle.com/_widget/html)” width=”410″ height=”150″></iframe>  
+```html
+<div style="width:410px; height:150px; position:fixed; top:30px; right:30px; z-index:2000;">  
+<iframe scrolling='no' frameBorder='0' style="border:none;" src="http://www.humblebundle.com/_widget/html" width="410" height="150"></iframe>  
 </div>
+```
 
 **2\. For embedding in a blog post (it will be centered)**
 
-<iframe scrolling=’no’ frameBorder=’0′ style=”margin:0 auto; border:none;” src=”[http://www.humblebundle.com/\_widget/html](http://www.humblebundle.com/_widget/html)” width=”410″ height=”150″></iframe>
+```html
+<iframe scrolling='no' frameBorder='0' style="margin:0 auto; border:none;" src="http://www.humblebundle.com/_widget/html" width="410" height="150"></iframe>
+```
 
 **3\. For free style embedding (wherever you want to put it):**
 
-<iframe scrolling=’no’ frameBorder=’0′ style=”border:none;” src=”[http://www.humblebundle.com/\_widget/html](http://www.humblebundle.com/_widget/html)” width=”410″ height=”150″></iframe>
+```html
+<iframe scrolling='no' frameBorder='0' style="border:none;" src="http://www.humblebundle.com/_widget/html" width="410" height="150"></iframe>
+```
 
 \_\_\_
 
