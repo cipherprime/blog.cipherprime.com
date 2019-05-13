@@ -3,7 +3,7 @@ layout: post
 title: "Resurrections, Part One"
 slug: how-to-rescue-a-blog-from-the-wayback-machine
 author: dain
-date: 2018-5-13 11:47:43 -0400
+date: 2018-5-10 11:47:43 -0400
 tags: blog, nodejs
 draft: true
 ---
