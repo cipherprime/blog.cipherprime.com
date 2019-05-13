@@ -36,6 +36,11 @@ logo: '/assets/images/logo.png'
 
     {% for post in paginator.posts %}
 
+    {% if post.draft %}
+
+    {% else %}
+
+
     <article class="post">
         <header class="post-header">
             <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -56,6 +61,8 @@ logo: '/assets/images/logo.png'
             </time>
         </footer>
     </article>
+
+    {% endif %}
 
     {% endfor %}
 
