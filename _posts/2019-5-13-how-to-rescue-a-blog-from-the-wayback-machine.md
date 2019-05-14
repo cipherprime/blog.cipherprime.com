@@ -21,7 +21,7 @@ Enter the [Wayback Machine](https://archive.org).
 
 As one of the best parts of the Internet Archive, the Wayback Machine is a magical resource that by all rights [shouldn't exist](https://www.xkcd.com/2102/). Started in 1996, it's probably one of my favourite things about the internet—good natured librarians working to preserve ephemeral bits of our history before they're forgotten forever.
 
-And since our humble little blog happened to get _juuust_ enough to be archived, we were lucky enough to have a snapshot saved from just before the KGB decided our nonsense posts were simply _too dangerous to exist_.
+And since our humble little blog happened to get _juuust_ enough traffic to be archived, we were lucky enough to have a snapshot saved from just before the KGB decided our nonsense posts were simply _too dangerous to exist_.
 
 To download the archive, I used the [Wayback Machine Downloader](https://github.com/hartator/wayback-machine-downloader), which after some [misadventures in Ruby](http://misheska.com/blog/2013/06/15/using-rbenv-to-manage-multiple-versions-of-ruby/) gave me a nice archive to work from.
 
@@ -39,7 +39,7 @@ I used [`cli-progress`](https://www.npmjs.com/package/cli-progress) for the snaz
 
 ![Wayback Command Line](/img/blog/wayback/wayback-cmd-line.png)
 
-On that note: pulling images out of the archive proved to be a bit trickier, as I had to take each image, find the Wayback resource associated with it, download said resource, then update the image link in our blog. This required a bit of guesswork to find the right root URL the images were saved under. Unfortunately, some of the more recent images hadn't been online long enough to be archived—those are truly lost, as far as I can tell. But sometimes have to make a sacrifice to ensure the greatest good. (Sorry, you guys, Endgame was _really, really good_.)
+On that note: pulling images out of the archive proved to be a bit trickier, as I had to take each image, find the Wayback resource associated with it, download said resource, then update the image link in our blog. This required a bit of guesswork to find the right root URL the images were saved under. Unfortunately, some of the more recent images hadn't been online long enough to be archived—those are truly lost, as far as I can tell. But sometimes you have to make a sacrifice to ensure the greatest good. (Sorry, you guys, Endgame was _really, really good_.)
 
 There's still some stuff missing from the blog. Tags are saved, but there's no quick dynamic way to show them, though this post from Long Qian [looks promising](http://longqian.me/2017/02/09/github-jekyll-tag/). And I was able to retrieve old comments, but adding comments to the blog now requires some workarounds, using something like [Staticman](https://staticman.net) to handle the updating. This is probably gonna take a minute to get working properly, so in the meantime, we decided to use [Disqus](www.disqus.com)—super familiar, super easy to configure, and we might even be able to import the old comments eventually.
 
