@@ -5,6 +5,7 @@ slug: how-to-rescue-a-blog-from-the-wayback-machine
 author: dain
 date: 2018-5-15 10:00:43 -0500
 tags: blog, nodejs, wayback, wordpress
+social: img/blog/wayback/social.jpg
 ---
 ### Or Resurrections, Part One
 
