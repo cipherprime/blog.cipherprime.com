@@ -3,7 +3,7 @@ layout: post
 title: "How to rescue a blog from the Wayback Machine"
 slug: how-to-rescue-a-blog-from-the-wayback-machine
 author: dain
-date: 2018-5-15 10:00:43 -0500
+date: 2019-5-15 10:00:43 -0500
 tags: blog, nodejs, wayback, wordpress
 social: img/blog/wayback/social.jpg
 ---
