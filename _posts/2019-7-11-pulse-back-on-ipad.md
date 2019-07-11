@@ -3,8 +3,7 @@ layout: post
 title: "Pulse is finally back on the iPad!"
 slug: pulse-is-finally-back-on-the-ipad
 author: dain
-date: 2018-7-11 12:00:00 -0500
-draft: true
+date: 2019-7-11 12:00:00 -0500
 tags: blog, pulse, ipad, relaunch
 social: img/blog/pulse-ipad/pulse-ipad.png
 ---
