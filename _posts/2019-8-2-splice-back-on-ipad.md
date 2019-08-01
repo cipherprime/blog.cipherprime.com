@@ -3,9 +3,8 @@ layout: post
 title: "Splice is finally back on the iPad!"
 slug: splice-on-the-ipad
 author: dain
-date: 2019-7-11 12:00:00 -0500
+date: 2019-8-2 11:45:00 -0500
 tags: blog, pulse, ipad, relaunch
-draft: true
 social: img/blog/pulse-ipad/splice-promo-ipad.jpg
 ---
 Next up on the update train:  [_Splice: Tree of Life_](https://itunes.apple.com/us/app/splice-tree-of-life/id543610134?mt=8) is finally back on the App Store and available for iPad! Wooooo!
