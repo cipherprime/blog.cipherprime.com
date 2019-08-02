@@ -4,7 +4,6 @@ title: "Splice is finally back on the iPad!"
 slug: splice-on-the-ipad
 author: dain
 date: 2019-8-2 11:45:00 -0500
-draft: true
 tags: blog, pulse, ipad, relaunch
 social: img/blog/pulse-ipad/splice-promo-ipad.jpg
 ---
