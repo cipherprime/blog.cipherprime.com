@@ -3,8 +3,7 @@ layout: post
 title: "Make Blooms Not War! Fractal's back on the iPad!"
 slug: fractal-on-the-ipad
 author: dain
-draft: true
-date: 2019-8-13 11:45:00 -0500
+date: 2019-8-15 11:45:00 -0500
 tags: blog, fractal, ipad, relaunch
 social: img/blog/pulse-ipad/fractal-ipad.jpg
 ---
