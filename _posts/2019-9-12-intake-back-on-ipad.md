@@ -3,8 +3,7 @@ layout: post
 title: "Intake's back on the iPad!"
 slug: intake-on-the-ipad
 author: dain
-draft: true
-date: 2019-9-5 11:45:00 -0500
+date: 2019-9-12 11:30:00 -0500
 tags: blog, intake, ipad, relaunch
 social: img/blog/pulse-ipad/intake-ipad.jpg
 ---
