@@ -5,7 +5,7 @@ slug: permission-dedication-and-the-art-of-game-jams
 oldlink: //blog.cipherprime.com/musings/2015/05/permission-dedication-and-the-art-of-game-jams
 author: will
 date: 2015-5-04 07:12:08 -0400
-tags: 
+tags:
 ---
 
 For over 3 years now I’ve been hosting a weekly event in Philadelphia called [Dev Night.](http://www.phillydevnight.com "Philly Dev Night") The main purpose of this event is to help grow and centralize the gaming community in Philadelphia. One thing above all others accomplishes this task: our Monthly Game Jams.
@@ -23,7 +23,7 @@ I run a game studio called [Cipher Prime](http://www.cipherprime.com "Cipher Pri
 Why does it work?
 -----------------
 
-We’ve all heard the saying, “Practice Makes Perfect” and a lot of us have also heard,”Perfect Practice Makes Perfect”. We’ve heard Malcolm Gladwell talk about the 10,000 hour principle in [Outliers](http://gladwell.com/outliers/ "Outliers by Malcom Gladwell"), and we’ve read inspirational books by [Tim Ferriss](http://www.timothyferriss.com "Timothy Ferriss"). But, what really helps motivate me and most of the people I know is _\*proof\*_.
+We’ve all heard the saying, “Practice Makes Perfect” and a lot of us have also heard,”Perfect Practice Makes Perfect”. We’ve heard Malcolm Gladwell talk about the 10,000 hour principle in [Outliers](https://vivipins.com/10000-hours-rule/ "Outliers by Malcom Gladwell"), and we’ve read inspirational books by [Tim Ferriss](http://www.timothyferriss.com "Timothy Ferriss"). But, what really helps motivate me and most of the people I know is _\*proof\*_.
 
 [Loish](http://loish.net "Loish") is one of my favorite digital painters. But she didn’t start off brilliant. **She started off with passion, and became amazing through dedication.** I recently did a talk on this concept: [Dedication over Motivation](http://www.gdcvault.com/play/1015751/The-Failure "A Post-Mortem Love Story - Dedication over Motivation"). The games industry is rather new, so it’s hard to have 100’s of examples of qualified growth. In the BuzzFeed era, we readers and consumers seem to need everything in quick graphs. So [here is the growth chart that Loish did](http://loish.deviantart.com/art/Improvement-meme-149230167 "Lois Growth Meme"), that chronicles her growth from 2003-2014 .
 
